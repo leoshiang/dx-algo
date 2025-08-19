@@ -1,5 +1,4 @@
-import dxCore from 'dx-core';
-const { 矩陣 } = dxCore;
+import { 矩陣 } from 'dx-core';
 
 class 距離矩陣 extends 矩陣 {
 
